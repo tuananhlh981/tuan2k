@@ -1,0 +1,34 @@
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\bin\Debug\CuaHangBanDia.exe.config
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\bin\Debug\CuaHangBanDia.exe
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\bin\Debug\CuaHangBanDia.pdb
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmChitietHDB.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmChitietHDN.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmCongviec.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmHoadonban.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmHoadonnhap.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmKhodia.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmMathongdia.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.tblnhasx.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.tblnhanvien.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.tblncc.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.tblkhachhang.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.tbltheloai.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Properties.Resources.resources
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.exe
+C:\Users\admin\Desktop\Banking Academy\Lập trình 2\CuaHangBanDia\obj\Debug\CuaHangBanDia.pdb
+D:\Lt2\CuaHangBanDia\bin\Debug\CuaHangBanDia.exe.config
+D:\Lt2\CuaHangBanDia\bin\Debug\CuaHangBanDia.exe
+D:\Lt2\CuaHangBanDia\bin\Debug\CuaHangBanDia.pdb
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.csprojAssemblyReference.cache
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Properties.Resources.resources
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.csproj.GenerateResource.cache
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.csproj.CoreCompileInputs.cache
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.exe
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.pdb
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Forms.frmKhodia.resources
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Forms.frmNhanvien.resources
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Forms.frmNhasx.resources
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.Forms.frmTheloai.resources
+D:\Lt2\CuaHangBanDia\obj\Debug\CuaHangBanDia.frmMain.resources
